@@ -1,20 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gönül Kaba</h1>
 <h3 align="center">💻 I'm a Computer Engineer & Full Stack Developer</h3>
 
-🔭 I’m currently working with C#, .NET Core, ASP.NET MVC, SQL 
-🌱 I’m continuously improving myself in clean code, scalable architectures, and full stack development  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gonulkaba) or by mail: gonullkaba@gmail.com  
+- 🔭 I’m currently working with C#, .NET Core, ASP.NET MVC, SQL 
+- 🌱 I’m continuously improving myself in clean code, scalable architectures, and full stack development  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/gonulkaba) or by mail: gonullkaba@gmail.com  
 
 ---
-
-📫 **Let's Connect!**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/gonulkaba)  
-- 💼 [GitHub](https://github.com/Gonulkaba)  
-- 📧 gonullkaba@gmail.com
-
----
-
-📊 Gönül KABA's GitHub Stats
 
 ![Gönül's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonulkaba&show_icons=true&theme=calm)
 
