@@ -7,7 +7,7 @@
 
 ---
 
-![Gönül's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonulkaba&show_icons=true&theme=calm)
+![Gönül's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gonulkaba&show_icons=true&theme=light)
 
 
 
